@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | LOCI - The Lab of Cyber Intelligence</title>
-    <link>https://remarkable666.github.io/en/authors/</link>
-      <atom:link href="https://remarkable666.github.io/en/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ujnloci.github.io/en/authors/</link>
+      <atom:link href="https://ujnloci.github.io/en/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://remarkable666.github.io/media/icon_hu6fb3f2178326fa887e1bb19fba202205_6456_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ujnloci.github.io/media/icon_hu6fb3f2178326fa887e1bb19fba202205_6456_512x512_fill_lanczos_center_3.png</url>
       <title>Authors</title>
-      <link>https://remarkable666.github.io/en/authors/</link>
+      <link>https://ujnloci.github.io/en/authors/</link>
     </image>
     
   </channel>
